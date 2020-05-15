@@ -1,16 +1,17 @@
 #
 # This file contains configuration flags to customize your site
 #
+theme: jekyll-theme-tactile
 
 # Name of your site (displayed in the header)
 name: Kyongsub Kong
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: A daily updated devlog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+  
 #
 # Flags below are optional
 #
